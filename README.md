@@ -2,7 +2,7 @@
 
 **🪂 Skymeter** is group of projects for skydive. **PullSensor** is an extendable audible altimeter.
 
-This project is built using [raspberry pi pico][https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html] and [Pico C/C++ SDK][pico-sdk-doc].
+This project is built using [raspberry pi pico](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) and [Pico C/C++ SDK][pico-sdk-doc].
 
 ## 🎉 Getting Started
 
