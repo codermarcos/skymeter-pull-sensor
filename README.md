@@ -12,7 +12,7 @@ This repository uses:
 
 | Dependencies                                 | Description        | Docs             |
 | -------------------------------------------- | ------------------ | ---------------- |
-| [![c-version]][c-download]                   | C/C++              | [📚](#install-c) |
+| [![c-version]](#install-c)                   | C/C++              | [📚][c-doc]      |
 | [![cmake-version]][cmake-download]           | CMake              | [📚][cmake-doc]  |
 
 > You can use [NVM][nvm-download] to select correct node version based on file `.nvmrc`.
